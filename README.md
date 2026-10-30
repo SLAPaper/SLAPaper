@@ -11,8 +11,6 @@
 - 😄 Pronouns: He/him, or they/them/it if you like
 - ⚡ Fun fact: Like dragons, but AI not good at drawing it, so focusing on drawing pandas
 
-### 3D Contribution Calendar
-
 ![3D contribution calendar — Northern Hemisphere seasons](./profile-3d-contrib/profile-season-animate.svg)
 
 <!--
