@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-![SLAPaper's Stats](https://github-readme-stats.vercel.app/api?username=SLAPaper&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
-![SLAPaper's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SLAPaper&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![GitHubCard](https://githubcard.com/slapaper.svg)
 
 - 🔭 I’m currently working on backend developing which is close sourced
 - 🌱 I’m currently learning Stable Diffusion / LLM and other AIGC stuffs
@@ -27,5 +25,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![GitHub Roast](https://githubroast.icu/api/card/SLAPaper)](https://githubroast.icu/u/SLAPaper)
